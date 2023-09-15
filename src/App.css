@@ -1,0 +1,33 @@
+/* ==============================Login Page ==================================== */
+
+.login-form  ,.search-wrapper ,.navbox{
+    background-image: linear-gradient(to right top, #000000, #212121, #3c3c3c, #595959, #787878, #8d8d8d, #a3a3a3, #b9b9b9, #cacaca, #dbdbdb, #ededed, #ffffff);
+}
+
+.login-form fieldset {
+    border-color: #21212174 !important;
+}
+
+.login-form label {
+    color: black !important;
+}
+
+.loginBtn:hover {
+    background-color: #7b7a7a6c !important;
+    color: black !important;
+    border: 1px solid;
+}
+
+/* ==============================SeachFunctionality Page ==================================== */
+
+
+.product-card:hover {
+    transform: scale(1.06);
+    transition: 0.5s;
+}
+
+/* ==============================Navbar Page ==================================== */
+
+.navbox {
+    background-image: linear-gradient(to right bottom, #5c5c5c, #757575, #909090, #ababab, #c7c7c7, #cccccc, #d0d0d0, #d5d5d5, #c3c3c3, #b1b1b1, #9f9f9f, #8e8e8e);
+}
